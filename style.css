@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&family=Comfortaa:wght@300&family=Quicksand&family=Roboto+Mono&family=Roboto+Slab&display=swap");
+
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: "Roboto Mono";
+  font-size: 20px;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #c1d0b5;
+}
+
+.main {
+  width: 350px;
+}
+
+.col {
+  background-color: #99a98f;
+  border-radius: 15px;
+  box-shadow: 0px 0px 20px #99a98f;
+  display: inline-block;
+  border: 2px rgba(0, 0, 0, 0.51) solid;
+}
+
+
+.col {
+  height: 100px;
+  width: 290px;
+  background-color: #c1d0b5;
+  margin: 10px;
+}
+
+.col_1 p{
+  height: 150px;
+  width: 290px;
+  background-color: #c1d0b5;
+  margin: 10px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 20px #99a98f;
+  display: inline-block;
+  border: 2px rgba(0, 0, 0, 0.51) solid;
+  padding: 3px;
+}
+
+.para , p {
+  overflow: hidden;
+  width: 280px;
+  height: 90px;
+  /* margin: 10px; */
+  text-align: center;
+
+}
+
+#para2 {
+  padding: 18px  0px;
+  font-size: 40px;
+  text-align: center;
+}
+
+#para3{
+  padding: 30px ;
+  font-size: 40px;
+}
+
+#para9{
+  height: 60px;
+  padding: 18px  0px;
+  font-size: 40px;
+  text-align: center;
+}
